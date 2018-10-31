@@ -13,9 +13,9 @@ var cotizacionDolar = 36.16;
 
 //Ejecución de las funciones que actualizan los valores de las variables en el HTML.
 window.onload = function() {
-    cargarNombreEnPantalla();
-    actualizarSaldoEnPantalla();
-    actualizarLimiteEnPantalla();
+    // cargarNombreEnPantalla();
+    // actualizarSaldoEnPantalla();
+    // actualizarLimiteEnPantalla();
     alert("Nombre de usuario: asd\nClave de acceso: 1234");
     iniciarSesion();
     if (sesionIniciada){
